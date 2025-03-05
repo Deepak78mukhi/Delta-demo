@@ -1,2 +1,2 @@
 # Delta-demo
-this is memo for github
+this is memo for git & hub
